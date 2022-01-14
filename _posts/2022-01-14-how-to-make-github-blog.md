@@ -27,19 +27,23 @@ blog를 시작하기로 마음 먹은 후, 어떤 형태의 blog를 운영할까
 
 ### 3. Code 복사해오기
 이제 fork 버튼을 누르면 여러분의 repository로 동일한 코드가 들어오게 됩니다. 
+
 ![fork]({{site.baseurl}}/assets/images/220114/repository.png)
 
 
 ### 4. Repository 이름 바꾸기
 fork를 하고 나면 내 repository에 다음과 같이 코드가 들어오게 됩니다.
+
 ![after_fork]({{site.baseurl}}/assets/images/220114/after_fork.png)
 
 
 이제 한 단계 남았습니다. Settings 에 들어가서 "hagura" 로 되어있는 repository name 을 **[username].github.io** 로 바꿔주세요.
+
 ![name]({{site.baseurl}}/assets/images/220114/name_change.png)
 
 
 저 같은 경우에 https://hyem-j.github.io 를 검색하면 처음에 봤던 Demo 와 같이 blog가 만들어진 걸 확인할 수 있습니다.
+
 ![demo]({{site.baseurl}}/assets/images/220114/hagura_demo.png)
 
 오늘은 Github blog 만드는 방법에 대해서 정리해 봤구요. 다음에는 blog 를 수리해 나가면서 사용했던 것들을 적어 보겠습니다.
