@@ -20,34 +20,34 @@ blog를 시작하기로 마음 먹은 후, 어떤 형태의 blog를 운영할까
 - http://jekyllthemes.org/themes/hagura/
 
 <figure>
-    <img src="assets/images/220114/hagura_demo.png">
+    <img src="../assets/images/220114/hagura_demo.png">
 </figure>
 
 사이트에 들어가면 아래와 같은 화면이 뜨게 되는데 여기서 Demo를 누르시면 blog를 직접 체험해 볼 수 있구요. 여기서 hompage를 누르면 code가 저장된 repository로 이동합니다. 
 <figure>
-    <img src="assets/images/220114/hagura.png">
+    <img src="../assets/images/220114/hagura.png">
 </figure>
 
 ### 3. Code 복사해오기
 이제 fork 버튼을 누르면 여러분의 repository로 동일한 코드가 들어오게 됩니다. 
 <figure>
-    <img src="assets/images/220114/repository.png">
+    <img src="../assets/images/220114/repository.png">
 </figure>
 
 ### 4. Repository 이름 바꾸기
 fork를 하고 나면 내 repository에 다음과 같이 코드가 들어오게 됩니다.
 <figure>
-    <img src="assets/images/220114/after_fork.png">
+    <img src="../assets/images/220114/after_fork.png">
 </figure>
 
 이제 한 단계 남았습니다. Settings 에 들어가서 "hagura" 로 되어있는 repository name 을 **[username].github.io** 로 바꿔주세요.
 <figure>
-    <img src="assets/images/220114/name_change.png">
+    <img src="../assets/images/220114/name_change.png">
 </figure>
 
 저 같은 경우에 https://hyem-j.github.io 를 검색하면 처음에 봤던 Demo 와 같이 blog가 만들어진 걸 확인할 수 있습니다.
 <figure>
-    <img src="assets/images/220114/hagura_demo.png">
+    <img src="../assets/images/220114/hagura_demo.png">
 </figure>
 
 오늘은 Github blog 만드는 방법에 대해서 정리해 봤구요. 다음에는 blog 를 수리해 나가면서 사용했던 것들을 적어 보겠습니다.
